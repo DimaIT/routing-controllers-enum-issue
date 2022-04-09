@@ -18,7 +18,7 @@
     "express": "^4.16.4",
     "lodash": "^4.17.11",
     "mailparser": "^2.5.0",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "reflect-metadata": "^0.1.13",
     "routing-controllers": "^0.8.0",
     "routing-controllers-openapi": "1.7.0",
